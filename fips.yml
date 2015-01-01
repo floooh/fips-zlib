@@ -1,0 +1,9 @@
+#
+# fips-zlib
+#
+---
+exports:
+    header-dirs : [ . ]
+    modules:
+        zlib:   zlib
+
