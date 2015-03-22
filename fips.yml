@@ -3,7 +3,7 @@
 #
 ---
 exports:
-    header-dirs : [ . ]
+    header-dirs : [ '.', 'zlib'  ]
     modules:
         zlib:   zlib
 
